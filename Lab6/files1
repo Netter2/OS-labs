@@ -1,0 +1,11 @@
+create 2 -1
+create 3 2
+create 4 3
+create 5 4
+create 6 5
+ping 5
+ping 3
+create 7 6
+remove 7
+exec 2 3 1 2 3
+
